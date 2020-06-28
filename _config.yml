@@ -8,7 +8,7 @@ email: smsali97@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 url: smsali97.github.io
 keywords: ["blog", "jekyll"]
-# base-repo: /personal-website
+base-url: /
 
 #
 ###################################
