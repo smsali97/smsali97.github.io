@@ -1,0 +1,72 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Sualeh's Skiving Snackboxes
+email: smsali97@gmail.com
+description: A simple and awesome blog theme powered by jekyll.
+url: smsali97.github.io
+keywords: ["blog", "jekyll"]
+# base-repo: /personal-website
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Sualeh's Skiving Snackboxes
+  avatar: logo.png
+  job: "Personal Blog "
+  bio: "Blog blog blog"
+  email: smsali97@gmail.com
+  disqus-shortname:
+  twitter: #username
+  facebook: smsali97
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: smsali97
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: smsali97
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
