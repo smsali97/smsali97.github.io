@@ -7,7 +7,7 @@ title: Sualeh's Skiving Snackboxes
 email: smsali97@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
 # url: smsali97.github.io
-keywords: ["blog", "jekyll"]
+keywords: ["blog", "jekyll","coding","writing","random","portfolio"]
 # base-url: /
 
 #
@@ -15,7 +15,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Pakistan/Karachi
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -37,14 +37,14 @@ owner:
   name: Sualeh's Skiving Snackboxes
   avatar: logo.png
   job: "Personal Blog "
-  bio: "Blog blog blog"
+  bio: "A Potterhead with a penchant for Programming"
   email: smsali97@gmail.com
-  disqus-shortname:
+  disqus-shortname: sualehs-skiving-snackboxes
   twitter: #username
   facebook: smsali97
   google:
     plus: #username
-    analytics:
+    analytics: UA-25249787-3
     verify:
     ad-client:
     ad-slot:
@@ -55,7 +55,7 @@ owner:
   linkedin: smsali97
   skype: #username
   xing: #username
-  instagram: smsualehali97
+  instagram: sm.sualehali
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -70,3 +70,4 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
+  medium: syedmohammadsualehali
