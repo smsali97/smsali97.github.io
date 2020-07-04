@@ -15,7 +15,7 @@ keywords: ["blog", "jekyll","coding","writing","random","portfolio"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Pakistan/Karachi
+timezone:          Europe/Paris
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
