@@ -2,7 +2,7 @@
 layout: post
 title: Moment Madness - About time we learnt timezones!
 excerpt: "A post where I attempt to discover all things time and why timezones are so mind-boggling and how can they be handled"
-modified: 2013-05-31
+modified: 2013-07-18
 tags: [programming, timezones, date, opinion]
 comments: true
 pinned: true
@@ -25,7 +25,7 @@ But until that doesn't happen,  we will be stuck with time zones for now.
 
 # So What even are Timezones?
 
-First of all, lets clear the confusion out, are timezones offsets? Well, yes. But *no*. Let me explain. Timezones are regions of land that correspond to places in the world in which the local time is the same across the region, these zones have been laid out in special maps. Like the ones on the right:
+First of all, lets clear the confusion out, are timezones offsets? Well, yes. But *no*. Let me explain. Timezones are regions of land that correspond to places in the world in which the local time is the same across the region, these zones have been laid out in special maps. Like the ones on the image.
 
 ![timezones.png](timezones.png)
 {: .pull-right}
@@ -70,11 +70,7 @@ The bottom line,  almost all databases have robust support for date-time formats
 
 ## Tip #3: For standardized formatting stick to the ISO 8601.
 
-They are around hundreds of formats listed on Wikipedia. But by far the most popular is the ISO 8601
-
-Namely: 
-
-That's it. For its merits, it follows a logical progression from higher granularity to lower *(Year → Month → Day → Hour → Minute → Second → Zone)* and it makes sorting much easier. 
+They are around hundreds of formats listed on Wikipedia. But by far the most popular is the ISO 8601. That's it. For its merits, it follows a logical progression from higher granularity to lower *(Year → Month → Day → Hour → Minute → Second → Zone)* and it makes sorting much easier. 
 
 {% highlight javascript %}
 const completeTimeStamp = currentTime.toISOString() 
