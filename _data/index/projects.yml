@@ -3,10 +3,6 @@
   image: pocketfs.png
   github: https://github.com/smsali97/pocketfs
 
-- name: Barnes Hut Galaxy Simulator
-  descr: A GUI Application built to simulate N Body Constellations efficiently
-  github: https://github.com/smsali97/nbody-simulation
-
 - name: GuppShupp
   descr: "A conversational group chat application made for a young Urdu Audience"
   image: guppshupp.gif
@@ -16,3 +12,11 @@
   descr: Tackling the pollution problem by incentivizing trash collection through gamification and building a social network that is actively engaging the problem in a creative and responsible manner.
   image: trashtroopers.png
   github: https://github.com/ssaz96/trash_troopers
+
+- name: Shajr Stats
+  descr: A Geographic Information System that measures the amount of greenery in Pakistan and identifies areas that require, and are suitable for plantation activities.
+  github: https://github.com/smsali97/shajrstats
+
+- name: Barnes Hut Galaxy Simulator
+  descr: A GUI Application built to simulate N Body Constellations efficiently
+  github: https://github.com/smsali97/nbody-simulation
