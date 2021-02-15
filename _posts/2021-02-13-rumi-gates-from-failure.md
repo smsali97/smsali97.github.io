@@ -34,7 +34,7 @@ Do not leave until all holes have been plugged and the worst of the storm is ove
 
 But once the immediate threat is over, then we need to have the halting phase like shown in the diagram which is the most important, we need to let some passage of time to happen before we start jumping to conclusions. Otherwise, all we have is prejudiced premature responses not backed by reason or rationale which leads to a whole lot of pointing fingers and minimal learning, if at all. 
 
-One example I have over here is that whenever you receive an angry email we have always found that rather than writing an instantaneous rash reply (which you end up regretting letter), it is much better to have a sleep on it and later you realize what kind of embarrassing decision it would have been if you had sent i immediately.
+One example I have over here is that whenever you receive an angry email we have always found that rather than writing an instantaneous rash reply (which you end up regretting later), it is much better to have a sleep on it and later you realize what kind of embarrassing decision it would have been if you had sent i immediately.
 
 ## #2: The Gate of *Recall*
 Once the storm has been weathered, and time has passed, it is time to recall what went wrong and *debrief*. It is crucial for us to first ask the question before we start attributing fault , that was there something that could have been done? If a natural disaster wrecks your entire home, you could have taken safety precautions, but sometimes things happen that are out of your locus of control. The sooner we can acclimatize us with that , the better.
