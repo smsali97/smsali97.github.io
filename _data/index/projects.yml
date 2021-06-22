@@ -1,3 +1,6 @@
+- name: Airlift Express
+  descr: Currently working on an exciting ecommerce product by Airlift Technologies which is aiming to revolutionize the quick-commerce industry. Its a multifaceted project that crosses many disciplines including supply chain, logistics, product, and tech!
+  image: logo.svg
 - name: PocketFS
   descr: A Multi-platform Distributed Filesytem made with Golang and React 
   image: pocketfs.png
