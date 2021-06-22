@@ -37,6 +37,7 @@ owner:
   name: Sualeh's Skiving Snackboxes
   avatar: logo.png
   job: "Personal Blog and Portfolio"
+  jobs: "🧑🏻‍💻📚🧙🏻‍♂️🍿🕌🌱"
   bio: "A Potterhead with a penchant for Programming"
   email: smsali97@gmail.com
   disqus-shortname: sualehs-skiving-snackboxes
@@ -70,4 +71,5 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
-  medium: syedmohammadsualehali
+
+plugins: [jekyll-redirect-from]
