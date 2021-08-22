@@ -7,6 +7,7 @@ tags:
 - perspective
 - character
 tumblr_url: https://path-of-a-wayfarer.tumblr.com/post/164094933423/the-metrics-kept-on-changing-first-i-was-a
+categories: [islam]
 ---
 > The metrics kept on changing.&nbsp;  
 > First I was a letter of the English Alphabet.  

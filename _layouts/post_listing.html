@@ -2,6 +2,33 @@
 layout: default
 ---
 
+<div class="row">
+  {% capture cats %}{{ site.categories | sort }}{% endcapture %}
+  {% for cat in site.categories%}
+    <div class="col s24 m3">
+      {% capture cat_name %}{{ cat | first }}{% endcapture %}
+      {% if forloop.index == 1 %}
+      <div><a href="{{ site.url }}/categories/#{{ cat_name }}" class="btn btn-warning"><h7>{{ cat_name }} 🕌</h7></a></div>
+      {% endif %}
+      {% if forloop.index == 2 %}
+      <div><a href="{{ site.url }}/categories/#{{ cat_name }}"  class="btn btn-danger"><h7>{{ cat_name }}🧙🏻‍♂️</h7></a></div>
+      {% endif %}
+      {% if forloop.index == 3 %}
+      <div><a href="{{ site.url }}/categories/#{{ cat_name }}"  class="btn btn-info"><h7>{{ cat_name }}🧑🏻‍💻</h7></a></div>
+      {% endif %}
+      {% if forloop.index == 4 %}
+      <div><a href="{{ site.url }}/categories/#{{ cat_name }}"  class="btn btn-sucesss"><h7>{{ cat_name }}🌱</h7></a></div>
+      {% endif %}
+      <!-- <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }} -->
+      <!-- {% for post in site.categories[cat_name]     %}
+      <article class="tag-item">
+        <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+      </article>
+      {% endfor %} -->
+    </div>
+  {% endfor %}
+</div>
+
 {% for post in site.posts %}
 <section class="post">
   <header class="post-header">

@@ -11,6 +11,7 @@ image:
   credit: Momentous Institute
   creditlink: https://momentousinstitute.org/blog/the-three-gates
 share: true
+categories: [learnings]
 ---
 
 There is this saying called the **Three Gates of Speech** which I have always admired. It is often attributed to the Sufi scholar *Rumi* and goes something like this:

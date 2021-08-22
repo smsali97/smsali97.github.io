@@ -9,7 +9,7 @@ pinned: true
 image:
   feature: sandcastles-1.png
   credit: Sualeh Ali
-
+categories: [tech]
 ---
 
 It's been just over a year of working at [Airlift Technologies](https://www.airlifttech.com), and at my 1st anniversary I wanted to reflect on some of the takeaways I have had while working here. I have had the unique opportunity to join a hyper-local product company at a time when its growth trajectory was at a tangential point. Switching to a new vertical and building an in-house product from scratch at express speed was simply a transformative experience; one that has challenged my pre-existing notions about my role and really instilled within me what being a software engineer entails at an emerging product company. 

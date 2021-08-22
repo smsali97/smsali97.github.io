@@ -8,6 +8,7 @@ image:
   feature: tumblr_5789955cf7b76cf4e0a6c2a22f954617_6c34d5c6_640.jpg
 share: true
 excerpt: Many of us received our results of Cambridge International Examinations similar to the format of this yesterday. These results were that which seemed final but were never fatal, and could not have possibly dictated our entire future, and may be of little or no use in the later years.....
+categories: [islam]
 ---
 Many of us received our results of Cambridge International Examinations similar to the format of this yesterday. These results were that which seemed final but were never fatal, and could not have possibly dictated our entire future, and may be of little or no use in the later years.
 

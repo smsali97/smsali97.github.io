@@ -12,6 +12,7 @@ image:
 share: true
 tumblr_url: https://path-of-a-wayfarer.tumblr.com/post/143363078118/yesterday-night-the-first-episode-of-the-much
 excerpt: Yesterday night, the first episode of the much highly awaited series Game of Thrones aired and I was just one of the myriad of people who eagerly anticipated its release since over a year....
+categories: [islam]
 ---
  ![](/tumblr_files/tumblr_o66ci0y32M1vsekzro1_640.jpg)  
 

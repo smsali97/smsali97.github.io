@@ -12,6 +12,7 @@ image:
   feature: tumblr_o83cdyA74F1vsekzro1_1280.jpg
 share: true
 excerpt: What is the crime of innocence? The price of retribution? The consequence of ignorance? The streets of Aleppo burned yesterday......
+categories: [islam]
 ---
  ![](/tumblr_files/tumblr_o83cdyA74F1vsekzro2_1280.jpg)  
  ![](/tumblr_files/tumblr_o83cdyA74F1vsekzro3_1280.jpg)  

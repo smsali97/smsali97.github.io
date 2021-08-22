@@ -12,6 +12,7 @@ image:
   creditlink: http://efele.net/maps/tz/world/)
 
 share: true
+categories: [tech]
 ---
  
 

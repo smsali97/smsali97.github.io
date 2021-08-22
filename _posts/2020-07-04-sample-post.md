@@ -6,6 +6,7 @@ modified: 2020-07-04
 tags: [intro, hello-world]
 comments: true
 pinned: true
+categories: [personal]
 ---
 
 # Hi there!

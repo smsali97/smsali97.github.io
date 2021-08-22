@@ -11,6 +11,7 @@ image:
 comments: true
 share: true
 excerpt: Throughout my life I have been running after numbers, in the form of grades or a salary figure. But on that day, there will be another one-number summary that will determine where I go, my score...
+categories: [islam]
 ---
 Throughout my life I have been running after numbers, in the form of grades or a salary figure. But on that day, there will be another one-number summary that will determine where I go, my score. An objective yardstick used by Allah (SWT) to rank us in order for our deeds. And this score and all its immaculate and precise calculations will be transparent to us all, available for any cross-examination but surely Allah (SWT) is Al-Adl and would not do any Zulm on any individual, and each persons score would be in accordance to what they had sowed.On that day, I imagine myself standing in such a great leaderboard displaying a series of scores. In this exhaustive list of figures, I see the martyrs, the scholars, the fuqarah and the revolutionaries! Amongst this great list of figures is there even a place for a sinner like me? A person with meager deeds and no extraordinary achievements to his merit, &nbsp;I scroll the list frantically, trying to find where do I stand, what position did I get? Which percentile do I find myself at, how did I perform?  
   

@@ -11,6 +11,7 @@ image:
     feature: tumblr_inline_orxcvrMutn1r3zvau_540.jpg
 share: true
 excerpt: A man whose stance on religion was so firm, whose acceptance to Islam sent ripples of fear to his enemies so much so that even _Shaytaan_ used to acquire a different path than the one Umar (RA) had chosen. You would wonder what possibly could have been the reasons that would have reduced the mighty Hazrat Umar (RA) with his towering personality to tears?
+categories: [islam]
 
 ---
 A man whose stance on religion was so firm, whose acceptance to Islam sent ripples of fear to his enemies so much so that even _Shaytaan_ used to acquire a different path than the one _Umar (RA)_had chosen.

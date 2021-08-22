@@ -9,6 +9,7 @@ comments: true
 image:
     feature: tumblr_inline_ow2nvtpqSq1r3zvau_540.jpg
 tumblr_url: https://path-of-a-wayfarer.tumblr.com/post/165190296123/rant-on-the-distracted-boyfriend
+categories: [islam]
 ---
 
 I thought much like most of the stuff on the internet, this too would fade away. But I feel at least I on a personal level cannot let this go. You might argue, that this meme is intended for humor and must be taken casually. And for some, I might be even blowing this issue ‘out of proportion’.  

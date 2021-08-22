@@ -9,6 +9,7 @@ tumblr_url: https://path-of-a-wayfarer.tumblr.com/post/651283604329168896/ramada
 excerpt: I once got lost into the supermarket, &nbsp;searching frantically for my mother who was just next to me, moments ago...
 image:
     feature: tumblr_e0418162484a03fb02f8bf862cb8f1e5_6aca2c4f_540.jpg
+categories: [islam]
 ---
 I once got lost into the supermarket, &nbsp;searching frantically for my mother who was just next to me, moments ago. Something had caught my eye on the other aisle, and unknowingly my hand slipped from hers and found myself lost in a labyrinth of rows.  
 I don’t remember being found, but I do know the inexplicable feeling I felt when I found her back, I held her hand ever-so firmly this time, never wanting to let go.   
