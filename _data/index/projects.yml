@@ -21,6 +21,10 @@
   image: trashtroopers.png
   github: https://github.com/ssaz96/trash_troopers
 
+- name: Chotu the Chatbot!
+  descr: Prototyped Chotu the Chatbot in a hackathon, your one-stop financial assistant!
+- image: chotu.png  
+
 - name: Barnes Hut Galaxy Simulator
   descr: A GUI Application built to simulate N Body Constellations efficiently
   github: https://github.com/smsali97/nbody-simulation
