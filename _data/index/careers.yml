@@ -1,11 +1,11 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: Airlift Technologies
-  link: http://www.rideairlift.com/
-  date: June 2020 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  link: http://www.airlifttech.com/
+  date: June 2020 - April 2022
   job: Software Engineer
 
-- name: Careem
+- name: Careem <em>an UBER company</em>
   link: https://www.careem.com/
   date: February 2020 - June 2020
   job: Data Analyst Intern
