@@ -9,7 +9,7 @@ pinned: true
 image:
   feature: timezones.png
   credit: Eric Muller
-  creditlink: http://efele.net/maps/tz/world/)
+  creditlink: https://efele.net/maps/tz/world/)
 
 share: true
 categories: [tech]
